@@ -27,6 +27,9 @@ Build something fun with Rocket, the fast and friendly web framework.
 
 #### Resources
 Official docs: https://rocket.rs/guide/
+
 Tutorial: Build a pastebin: https://rocket.rs/guide/pastebin/
+
 Tutorial: Build a shitty blog: https://github.com/sgrif/shitty-blog
+
 Tutorial: Build a REST API: https://github.com/fanderzon/rocket-api
