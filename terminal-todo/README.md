@@ -42,6 +42,10 @@ Todo List:
 -------------------
 ```
 
+# Running the project
+The project comes with some of the boilerplate done, and is ready to be started with `cargo run`.
+
+It will print out an empty todo list, but none of the commands have been added (that's your job).
 
 # Additional ideas
 If this wasn't challenging enough here are some other features to implement:

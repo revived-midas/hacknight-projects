@@ -21,3 +21,12 @@ http://exercism.io/exercises/rust/beer-song/readme
 http://exercism.io/exercises/rust/bowling/readme
 
 ## Medium level project
+Build something fun with Rocket, the fast and friendly web framework.
+
+> It is recommended to have a decent familiarity with Rust itself, as learning enough of the ins and outs of a framework can be hard enough in 2 hours.
+
+#### Resources
+Official docs: https://rocket.rs/guide/
+Tutorial: Build a pastebin: https://rocket.rs/guide/pastebin/
+Tutorial: Build a shitty blog: https://github.com/sgrif/shitty-blog
+Tutorial: Build a REST API: https://github.com/fanderzon/rocket-api
