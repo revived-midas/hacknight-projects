@@ -21,7 +21,11 @@ http://exercism.io/exercises/rust/beer-song/readme
 http://exercism.io/exercises/rust/bowling/readme
 
 ## Medium level project
-Build something fun with Rocket, the fast and friendly web framework. Maybe continue on the [Note taker API](https://github.com/fanderzon/rocket-api) and build a web app?
+Build something fun with Rocket, the fast and friendly web framework.
+
+Maybe continue on the [Note taker](https://github.com/fanderzon/rocket-api) and build a web app out of it?
+* Proper error handling on routes with 404 if a note is not found?
+* Explore the excellent Rocket templating model to build something pretty?
 
 > It is recommended to have a decent familiarity with Rust itself, as learning enough of the ins and outs of a framework to build something can be hard enough in 2 hours.
 
