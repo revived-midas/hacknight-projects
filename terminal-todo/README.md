@@ -1,4 +1,4 @@
-# CLI Todo list
+# Terminal Todo list
 Your job is to create a Todo list that runs in the terminal.
 
 When you build the project with `cargo run` it should print the current Todo list (which is probably empty on init).
