@@ -23,7 +23,7 @@ http://exercism.io/exercises/rust/bowling/readme
 ## Medium level project
 Build something fun with Rocket, the fast and friendly web framework.
 
-> It is recommended to have a decent familiarity with Rust itself, as learning enough of the ins and outs of a framework can be hard enough in 2 hours.
+> It is recommended to have a decent familiarity with Rust itself, as learning enough of the ins and outs of a framework to build something can be hard enough in 2 hours.
 
 #### Resources
 Official docs: https://rocket.rs/guide/
